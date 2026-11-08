@@ -4,7 +4,9 @@
 
 ## 플레이 방법
 
-`cat-cafe.html`을 내려받아 브라우저(PC, 휴대폰)로 열면 돼요. 진행 상황은 브라우저에 자동 저장돼요.
+바로 플레이: https://2010scig-ship-it.github.io/Bangbae-Cat-Cafe/
+
+또는 `cat-cafe.html`(`index.html`과 같은 파일)을 내려받아 브라우저(PC, 휴대폰)로 열면 돼요. 진행 상황은 브라우저에 자동 저장돼요.
 
 ## 주요 기능
 
